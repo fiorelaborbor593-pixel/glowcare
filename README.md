@@ -34,27 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
-# MoveUp
-## Credenciales de prueba
-
-## Autor
-**Axell Padilla**
-GitHub: [@Axell96](https://github.com/Axell96)
-
-
-## Notas
-
-- La API de wger. de es una fuente de datos externa e independiente de Supabase (Supabase alamacena usuarios, retos y participaciones; wger. de solo el catalogo de ejercicios sugeridos).
-- El archivo `.env.local` no se sube al repositorio (esta en `.gitignore`); en produccion, las variables de entorno se configuran directamente en Vercel.
-
-## Video de defensa
-
-[Ver video de defensa (Exam_2P_APadilla.mp4)](https://ister-my.sharepoint.com/:v:/g/personal/axell_padilla_ister_edu_ec/IQDmPPvsNRc1Sb5C1JttZxX2AXwdBTj0WBUba4rtUvq8rQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxbcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IdlYiIsInJlZmVycmFsTw9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FIXl4H)
-
-## Codigo VSCode
-https://ister-my.sharepoint.com/:u:/g/personal/axell_padilla_ister_edu_ec/IQC6xaFAWUgrTawLNrLzittKAT_OLsDpJImsgw3ccd-M?e=lxHHVn
-
-## Vercel
-https://moveup-gold.vercel.app/
